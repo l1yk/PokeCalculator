@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="Theme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Widget.TabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabBackground">@color/TabBackground</item>
+        <item name="tabIndicatorColor">@color/TitlePrimaryColor</item>
+    </style>
+
+    <style name="Widget.ActionBar" parent="Widget.AppCompat.Light.ActionBar">
+        <item name="android:background">@color/TitlePrimaryColor</item>
+        <item name="titleTextColor">@color/TitleTextColorPrimary</item>
+    </style>
+
+</resources>

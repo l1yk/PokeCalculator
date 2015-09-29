@@ -1,0 +1,6 @@
+<resources>
+    <item name="TitlePrimaryColor" type="color">#FF0000</item>
+    <item name="TitlePrimaryColorDark" type="color">#990000</item>
+    <item name="TitleTextColorPrimary" type="color">#FFFFFF</item>
+    <item name="TabBackground" type="color">#FFFFFF</item>
+</resources>

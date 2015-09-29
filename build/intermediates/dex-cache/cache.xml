@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\iii\Documents\GitHub\PokeCalculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\iii\Documents\GitHub\PokeCalculator\app\build\intermediates\pre-dexed\debug\classes-b1baa44a861513a27fc93af5ab9bcab9f9e48045.jar" />
+    </item>
+    <item
+        jar="C:\Users\iii\Documents\GitHub\PokeCalculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\iii\Documents\GitHub\PokeCalculator\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-a5cef41a3816c48c965a18ce1665553cc6858f7d.jar" />
+    </item>
+    <item
+        jar="C:\Users\iii\Documents\GitHub\PokeCalculator\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\iii\Documents\GitHub\PokeCalculator\app\build\intermediates\pre-dexed\debug\classes-4eae0cd13878271c6c98e3212682c3d37bcb0980.jar" />
+    </item>
+    <item
+        jar="C:\Users\iii\Documents\GitHub\PokeCalculator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\iii\Documents\GitHub\PokeCalculator\app\build\intermediates\pre-dexed\debug\classes-86e4992d1478300d8796034624f3f33d2b435bb5.jar" />
+    </item>
+    <item
+        jar="C:\Users\iii\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\iii\Documents\GitHub\PokeCalculator\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-e13b54171308f6adc073b3fa5371dd608be1a4fd.jar" />
+    </item>
+
+</items>
